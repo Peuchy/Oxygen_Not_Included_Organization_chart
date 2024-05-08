@@ -2,7 +2,7 @@
 - [FRENCH VERSION](#french-version)
 
 ---------------------------------------
-ENGLISH VERSION
+# ENGLISH VERSION
 
 
 Hello everyone!
@@ -92,7 +92,7 @@ Indeed, the site is far from perfect, but I hope this tool will be as enjoyable 
 ---------------------------------------
 
 
-FRENCH VERSION
+# FRENCH VERSION
 
 
 Bonjour à tous !
