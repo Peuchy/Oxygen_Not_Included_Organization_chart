@@ -1,4 +1,4 @@
-- [ENGLISH VERSION] ()
+- [ENGLISH VERSION] (https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#english-version)
 - [FRENCH VERSION](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#french-version)
 
 ---------------------------------------
