@@ -122,7 +122,7 @@ Je vais vous faire un ptit menu si vous voulez passer certains passages:
 
 
 
----------------------------------------
+
 # GÉNÈSE
 
 ## QUI ?
@@ -139,7 +139,7 @@ C'est sur ce discord (en français, le lien est sur la page Contact du site) que
 N'étant pas codeur, il m'a trouvé cette application open source https://app.diagrams.net qui me permet de faire tout les diagrammes de flux. 
 Il m'a également montré le fonctionnement de github sur lequel sont hébergées toutes les pages .html et .drawio qui permettront de reprendre le projet. Si ce projet existe, c'est littéralement grâce à lui.
 
----------------------------------------
+
 # METHODOLOGIE
 
 ## BASE DE DONNÉES:
@@ -165,7 +165,7 @@ Pour tenter de garder un ensemble le plus lisible et cohérant possible.
 
 Il y a aussi une version pour le mode Vanilla et une autre pour le DLC Space Out. Les destinations et moteurs spatiaux étant différents. 
 
----------------------------------------
+
 # LA SUITE
 
 ## CONSOLIDER LES DONNÉES:
@@ -188,7 +188,7 @@ C'est une idée mais cela me prendra aussi du temps.
 ## FUTUR DLC:
 Je ne sais pas comment fonctionnera le futur DLC mais si mon data-mineur est toujours disponible et motivé à ce moment j'aimerai beaucoup l'intégrer dans les diagrammes. Cela passera certainement en priorité devant les autres projets. 
 
----------------------------------------
+
 # MODÈLE COMMERCIAL
 Le don. Le site est totalement exempt de publicité et le projet est open source sous la licence GNU GENERAL PUBLIC LICENSE Version 3. 
 Les dons serviront essentiellement à payer les coût d'entretien du serveur mais je ne suis pas contre un peu de rab :D
