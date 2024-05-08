@@ -1,4 +1,12 @@
-WORK IN PROGRESS.. SOON ! 
+- ENGLISH
+- FRENCH
+
+
+
+
+
+
+---------------------------------------
 
 Bonjour à tous !
 
