@@ -6,7 +6,7 @@ Je voulais vous présenter mon nouveau projet: [Onicharts.com](https://onicharts
 
 Je vais vous faire un ptit menu si vous voulez passer certains passages:
 
-# [GÉNÈSE](#genese-1)
+# [GÉNÈSE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#g%C3%A9n%C3%A8se-1)
 - Qui ?
 - Pourquoi ?
 - Comment ?
