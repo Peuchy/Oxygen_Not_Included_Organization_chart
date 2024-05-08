@@ -15,7 +15,7 @@ Je vais vous faire un ptit menu si vous voulez passer certains passages:
 - Base de Données
 - Diagramme de flux
 
-# [LA SUITE]()
+# [LA SUITE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#la-suite-1)
 - Consolider les données
 - Intégrer les setups
 - Partie Animal
