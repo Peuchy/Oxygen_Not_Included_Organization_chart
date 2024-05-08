@@ -10,24 +10,25 @@ Hello everyone!
 I wanted to introduce you to my new project: [Onicharts.com](Onicharts.com)
 I'll give you a little menu if you want to skip certain sections:
 
-# [GENESIS]()
+# [GENESIS](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#genesis-1)
 - Who?
 - Why?
 - How?
 
-# [METHODOLOGY]()
+# [METHODOLOGY](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#methodology-1)
 - Database
 - Flowchart
 
-# [WHAT'S NEXT]()
+# [WHAT'S NEXT](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#whats-next-1)
 - Data Consolidation
 - Integrating Consensus Setups
 - Critters Section
 - Others Ideas
 - Future DLC
 
-# [COMMERCIAL MODEL]()
----------------------------------------
+# [COMMERCIAL MODEL](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#commercial-model-1)
+
+
 # GENESIS
 
 ## WHO?
@@ -39,7 +40,7 @@ Even when I was playing the beta, I made my own little charts by hand. But it ha
 ## HOW?
 It was on this Discord (in French, the link is on the Contact page of the site) that I met @stl, who made this project possible. Not being a coder, he found me this open-source application [https://app.diagrams.net](https://app.diagrams.net) which allows me to make all the flowcharts. He also showed me how GitHub works, where all the .html and .drawio pages are hosted, which will allow the project to be resumed. If this project exists, it's literally thanks to him.
 
----------------------------------------
+
 # METHODOLOGY
 
 ## DATABASE:
@@ -59,7 +60,7 @@ Overall, I always try to place inputs at the bottom or left and outputs at the t
 
 There are also separate versions for Vanilla mode and the Space Out DLC, as the destinations and space engines are different.
 
----------------------------------------
+
 # WHAT'S NEXT
 
 ## DATA CONSOLIDATION:
@@ -81,7 +82,6 @@ I don't know how the future DLC will work, but if my data miner is still availab
 
 
 
-------------------------------------
 # COMMERCIAL MODEL:
 Donations. The site is completely ad-free, and the project is open source under the GNU GENERAL PUBLIC LICENSE Version 3. Donations will primarily cover the maintenance costs of the server, but I wouldn't say no to a little extra :D
 More information on my [Patreon](https://www.patreon.com/Peuchy)
@@ -90,6 +90,8 @@ Indeed, the site is far from perfect, but I hope this tool will be as enjoyable 
 
 
 ---------------------------------------
+
+
 # FRENCH VERSION
 
 
