@@ -1,5 +1,5 @@
-- ENGLISH
-- FRENCH
+- ENGLISH VERSION
+- FRENCH VERSION
 
 
 
@@ -7,6 +7,7 @@
 
 
 ---------------------------------------
+# FRENCH VERSION
 
 Bonjour à tous !
 
