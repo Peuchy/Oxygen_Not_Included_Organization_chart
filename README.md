@@ -1,8 +1,8 @@
-- [ENGLISH VERSION](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#english-version)
-- [FRENCH VERSION](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#french-version)
+- [ENGLISH VERSION](#english-version)
+- [FRENCH VERSION](#french-version)
 
 ---------------------------------------
-# ENGLISH VERSION
+ENGLISH VERSION
 
 
 Hello everyone!
@@ -92,7 +92,7 @@ Indeed, the site is far from perfect, but I hope this tool will be as enjoyable 
 ---------------------------------------
 
 
-# FRENCH VERSION
+FRENCH VERSION
 
 
 Bonjour à tous !
