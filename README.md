@@ -10,23 +10,23 @@ Hello everyone!
 I wanted to introduce you to my new project: [Onicharts.com](Onicharts.com)
 I'll give you a little menu if you want to skip certain sections:
 
-# [GENESIS](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#genesis-1)
+# [GENESIS](#genesis-1)
 - Who?
 - Why?
 - How?
 
-# [METHODOLOGY](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#methodology-1)
+# [METHODOLOGY](#methodology-1)
 - Database
 - Flowchart
 
-# [WHAT'S NEXT](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#whats-next-1)
+# [WHAT'S NEXT](#whats-next-1)
 - Data Consolidation
 - Integrating Consensus Setups
 - Critters Section
 - Others Ideas
 - Future DLC
 
-# [COMMERCIAL MODEL](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#commercial-model-1)
+# [COMMERCIAL MODEL](#commercial-model-1)
 
 
 # GENESIS
@@ -101,23 +101,23 @@ Je voulais vous présenter mon nouveau projet: [Onicharts.com](https://onicharts
 
 Je vais vous faire un ptit menu si vous voulez passer certains passages:
 
-# [GÉNÈSE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#g%C3%A9n%C3%A8se-1)
+# [GÉNÈSE](#g%C3%A9n%C3%A8se-1)
 - Qui ?
 - Pourquoi ?
 - Comment ?
 
-# [METHODOLOGIE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#methodologie-1)
+# [METHODOLOGIE](#methodologie-1)
 - Base de Données
 - Diagramme de flux
 
-# [LA SUITE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#la-suite-1)
+# [LA SUITE](#la-suite-1)
 - Consolider les données
 - Intégrer les setups
 - Partie Animal
 - Autres idées
 - Futur DLC
 
-# [MODÈLE COMMERCIAL](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#mod%C3%A8le-commercial-1)
+# [MODÈLE COMMERCIAL](#mod%C3%A8le-commercial-1)
 
 
 
