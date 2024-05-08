@@ -11,7 +11,7 @@ Je vais vous faire un ptit menu si vous voulez passer certains passages:
 - Pourquoi ?
 - Comment ?
 
-# [METHODOLOGIE]()
+# [METHODOLOGIE](https://github.com/Peuchy/Oxygen_Not_Included_Organization_chart/blob/main/README.md#methodologie-1)
 - Base de Données
 - Diagramme de flux
 
