@@ -2,11 +2,11 @@ WORK IN PROGRESS.. SOON !
 
 Bonjour à tous !
 
-Je voulais vous présenter mon nouveau projet: Onicharts.com
+Je voulais vous présenter mon nouveau projet: [Onicharts.com](https://onicharts.com)
 
 Je vais vous faire un ptit menu si vous voulez passer certains passages:
 
-# [GÉNÈSE]()
+# [GÉNÈSE](#genese-1)
 - Qui ?
 - Pourquoi ?
 - Comment ?
