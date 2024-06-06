@@ -1,0 +1,18 @@
+2024-06-06	v0.11
+* Larger Elements menus
+* Added tooltips to the Elements menu
+* New icon for the Grugfruit plant
+* Added links to the following tooltips:
+    * Volcanoes/etc
+    * Asteroids
+    * Geotuner (Volcanoes/etc)
+* Added some relations: Asteroid --> Element
+* Reorganized resources available on asteroids by the state of matter (gas, liquid, and solid)
+* Display of renewal rates in kg/c for asteroids
+* Fixed feeding of pips
+* Fixed feeding of critters babies
+* Several spelling and numerical corrections
+
+
+2024-05-08 v0.1
+Website uplive !
